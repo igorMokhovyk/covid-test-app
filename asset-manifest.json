@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/covid-test-app/static/js/main.8bd749ff.chunk.js",
+    "main.js.map": "/covid-test-app/static/js/main.8bd749ff.chunk.js.map",
+    "runtime-main.js": "/covid-test-app/static/js/runtime-main.7057b93c.js",
+    "runtime-main.js.map": "/covid-test-app/static/js/runtime-main.7057b93c.js.map",
+    "static/js/2.ebc2340a.chunk.js": "/covid-test-app/static/js/2.ebc2340a.chunk.js",
+    "static/js/2.ebc2340a.chunk.js.map": "/covid-test-app/static/js/2.ebc2340a.chunk.js.map",
+    "index.html": "/covid-test-app/index.html",
+    "static/js/2.ebc2340a.chunk.js.LICENSE.txt": "/covid-test-app/static/js/2.ebc2340a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7057b93c.js",
+    "static/js/2.ebc2340a.chunk.js",
+    "static/js/main.8bd749ff.chunk.js"
+  ]
+}
